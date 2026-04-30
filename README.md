@@ -104,7 +104,7 @@ Each module is also a business opportunity:
 | 🎓 Module 1 course | Build a LLM from scratch · 10 videos | [View →](https://labs.codersarts.com) |
 | 🎓 Module 2 course | BPE + Beam search + AST | [View →](https://labs.codersarts.com/) |
 | 🎓 Module 3 course | NLP pipeline from scratch | [View →](https://labs.codersarts.com/) |
-| 💬 1-on-1 mentorship | Build any module as your final year project | [Book →]([https://codersarts.com/mentorship](https://www.codersarts.com/mentors)) |
+| 💬 1-on-1 mentorship | Build any module as your final year project | [Book →] (https://www.codersarts.com/mentors) |
 | 📦 Custom datasets | Pre-curated datasets for each module | [Get →](https://labs.codersarts.com/datasets) |
 
 ---
