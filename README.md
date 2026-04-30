@@ -9,7 +9,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-orange?style=flat-square&logo=pytorch)](https://pytorch.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-**[labs.codersarts.com/ai-research-hub](https://labs.codersarts.com/ai-research-hub)**
+**[labs.codersarts.com/ai-research-hub]([https://labs.codersarts.com/ai-research-hub](https://labs.codersarts.com/products))**
 
 </div>
 
@@ -93,7 +93,7 @@ Each module is also a business opportunity:
 | OCR | Fintech, HR | Document digitisation |
 | Computer Vision | Retail, healthcare | Custom image classifier |
 
-→ **[Business guide: how to monetise tiny models](https://labs.codersarts.com/monetise)**
+
 
 ---
 
@@ -101,10 +101,10 @@ Each module is also a business opportunity:
 
 | What | Details | Link |
 |------|---------|------|
-| 🎓 Module 1 course | Build a LLM from scratch · 10 videos | [View →](https://labs.codersarts.com/courses/build-llm) |
-| 🎓 Module 2 course | BPE + Beam search + AST | [View →](https://labs.codersarts.com/courses/code-generator) |
-| 🎓 Module 3 course | NLP pipeline from scratch | [View →](https://labs.codersarts.com/courses/nlp) |
-| 💬 1-on-1 mentorship | Build any module as your final year project | [Book →](https://codersarts.com/mentorship) |
+| 🎓 Module 1 course | Build a LLM from scratch · 10 videos | [View →](https://labs.codersarts.com) |
+| 🎓 Module 2 course | BPE + Beam search + AST | [View →](https://labs.codersarts.com/) |
+| 🎓 Module 3 course | NLP pipeline from scratch | [View →](https://labs.codersarts.com/) |
+| 💬 1-on-1 mentorship | Build any module as your final year project | [Book →]([https://codersarts.com/mentorship](https://www.codersarts.com/mentors)) |
 | 📦 Custom datasets | Pre-curated datasets for each module | [Get →](https://labs.codersarts.com/datasets) |
 
 ---
@@ -122,6 +122,6 @@ PRs and issues are very welcome.
 **⭐ Star the repos you use — it helps other developers find them**
 
 Built by [Codersarts](https://codersarts.com)  
-[Website](https://codersarts.com) · [AI Research Hub](https://labs.codersarts.com/ai-research-hub) · [Courses](https://labs.codersarts.com/courses) · [Mentorship](https://codersarts.com/mentorship)
+[Website](https://codersarts.com) · [AI Research Hub](https://labs.codersarts.com/ai-research-hub) · [Courses]([Codersarts AI Courses](https://www.ai.codersarts.com/courses)) · [Mentorship](https://codersarts.com/mentorship)
 
 </div>
