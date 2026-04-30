@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+tokenizer.json
+.env
+.DS_Store

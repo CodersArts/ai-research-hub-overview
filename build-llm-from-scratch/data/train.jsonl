@@ -1,0 +1,10 @@
+{"prompt": "for loop over a list", "code": "items = ['apple', 'banana', 'mango']\nfor item in items:\n    print(item)"}
+{"prompt": "for loop with range", "code": "for i in range(5):\n    print(i)"}
+{"prompt": "while loop counting", "code": "count = 0\nwhile count < 5:\n    print(count)\n    count += 1"}
+{"prompt": "read a text file", "code": "with open('notes.txt', 'r') as f:\n    content = f.read()\nprint(content)"}
+{"prompt": "read file line by line", "code": "with open('data.txt', 'r') as f:\n    for line in f:\n        print(line.strip())"}
+{"prompt": "write to a file", "code": "with open('output.txt', 'w') as f:\n    f.write('Hello World\\n')"}
+{"prompt": "for loop with enumerate", "code": "names = ['Alice', 'Bob', 'Charlie']\nfor i, name in enumerate(names):\n    print(i, name)"}
+{"prompt": "list comprehension", "code": "squares = [x**2 for x in range(10)]\nprint(squares)"}
+{"prompt": "read csv file", "code": "import csv\nwith open('data.csv', 'r') as f:\n    reader = csv.reader(f)\n    for row in reader:\n        print(row)"}
+{"prompt": "write json file", "code": "import json\ndata = {'name': 'Alice', 'age': 20}\nwith open('data.json', 'w') as f:\n    json.dump(data, f, indent=2)"}
