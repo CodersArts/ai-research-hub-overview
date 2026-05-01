@@ -31,12 +31,12 @@ When you implement causal self-attention line by line, you understand everything
 
 | # | Module | What you build | Difficulty | Stars |
 |---|--------|----------------|------------|-------|
-| 1 | [build-llm-from-scratch]([https://github.com/CodersArts/build-llm-from-scratch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/build-llm-from-scratch) | GPT-style language model · 1.8M params | ⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/build-llm-from-scratch?style=flat-square) |
+| 1 | [build-llm-from-scratch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/build-llm-from-scratch) | GPT-style language model · 1.8M params | ⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/build-llm-from-scratch?style=flat-square) |
 | 2 | [python-code-generator-from-scratch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/python-code-generator-from-scratch) | BPE tokenizer · AST validator · Beam search | ⭐⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/python-code-generator-from-scratch?style=flat-square) |
 | 3 | [nlp-from-scratch-pytorch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/nlp-from-scratch-pytorch) | Word2Vec · LSTM · Sentiment · NER | ⭐⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/nlp-from-scratch-pytorch?style=flat-square) |
 | 4 | [speech-recognition-from-scratch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/speech-recognition-from-scratch) | FFT · MFCC · CNN · CTC decoder | ⭐⭐⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/speech-recognition-from-scratch?style=flat-square) |
 | 5 | [ocr-from-scratch-pytorch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/ocr-from-scratch-pytorch) | Otsu · ConnComp · CNN · Word reconstruction | ⭐⭐⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/ocr-from-scratch-pytorch?style=flat-square) |
-| 6 | [cnn-vision-from-scratch]([https://github.com/CodersArts/cnn-vision-from-scratch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/cnn-vision-from-scratch)) | Conv2D · BatchNorm · ResNet · CIFAR-10 | ⭐⭐⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/cnn-vision-from-scratch?style=flat-square) |
+| 6 | [cnn-vision-from-scratch](https://github.com/CodersArts/ai-research-hub-overview/tree/main/cnn-vision-from-scratch) | Conv2D · BatchNorm · ResNet · CIFAR-10 | ⭐⭐⭐⭐ | ![](https://img.shields.io/github/stars/CodersArts/cnn-vision-from-scratch?style=flat-square) |
 
 ---
 
